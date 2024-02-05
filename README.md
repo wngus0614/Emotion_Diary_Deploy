@@ -1,4 +1,4 @@
-[나만의 감정 일기장}(https://juhyun-diary-project.web.app )
+[나만의 감정 일기장](https://juhyun-diary-project.web.app )
 
 # Getting Started with Create React App
 
