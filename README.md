@@ -1,7 +1,8 @@
 [나만의 감정 일기장](https://juhyun-diary-project.web.app )
+=
+![thumbnail](https://github.com/wngus0614/Emotion_Diary_Deploy/assets/131091625/96769997-0fa6-479e-b16a-b9bd86a939af)
+=
 
-#
-#
 #
 
 # Getting Started with Create React App
