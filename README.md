@@ -3,6 +3,8 @@
 ![thumbnail](https://github.com/wngus0614/Emotion_Diary_Deploy/assets/131091625/96769997-0fa6-479e-b16a-b9bd86a939af)
 =
 
+출처 및 참고자료 
+https://www.inflearn.com/course/한입-리액트
 #
 
 # Getting Started with Create React App
